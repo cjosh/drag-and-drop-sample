@@ -1,3 +1,9 @@
+## Enveritas code sample
+
+The format of the question JSON is 
+{ "questions": string[] }
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
